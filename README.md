@@ -1,6 +1,19 @@
 # Posts Parser with Telegram/Discord Output
 This fun little script parses posts from my website and tells you if there are any new ones.
 
+# Screenshots
+<details>
+
+<summary>Collapse me</summary>
+
+![image](https://github.com/womblee/telegram-discord-posts-parser/assets/52250786/a5b76bae-ab8b-4192-8658-bef955a278ee)
+
+![image](https://github.com/womblee/telegram-discord-posts-parser/assets/52250786/a716a857-6088-4100-be92-c87e76279f73)
+
+* There are also discord screenshots, but I am lazy to add them...
+
+</details>
+
 # How does it work?
 When used for the first time, it creates a text file called parsed.txt.
 This text file contains hrefs to articles on my website.
